@@ -38,7 +38,7 @@ Sn1per is an automated scanner that can be used during a penetration test to enu
 
 ## DOCKER INSTALL:
 
-Credits: @menzow
+Credits: @menzow copia
 
 Docker Install:
 https://github.com/menzow/sn1per-docker
